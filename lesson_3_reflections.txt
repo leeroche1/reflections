@@ -28,4 +28,9 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Use branches any time that a change could jeopardize master or otherwise make the master unstable
+    Sometimes, you just have to update master to fix a bug or make a change
+    
+    
+    
+    
