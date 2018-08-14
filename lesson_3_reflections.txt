@@ -2,3 +2,28 @@ When would you want to create a remote repository rather than keeping all your w
 
   When you have a quick change, idea, or fix and don't have access to your usual workstation.
   You have the incorrect belief that web-apps are preferable to synced local apps.
+
+Why might you want to always pull changes manually rather than having Git
+automatically stay up-to-date with your remote repository?
+
+    You might not be ready to pull changes if you are in a multiple contributor repository
+
+Describe the differences between forks, clones, and branches.  When would you
+use one instead of another?
+
+    Fill in your answer here
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally?
+
+    Fill in your answer here
+
+How would you collaborate without using Git or GitHub?  What would be easier,
+and what would be harder?
+
+    Fill in your answer here
+
+When would you want to make changes in a separate branch rather than directly in
+master?  What benefits does each approach have?
+
+    Fill in your answer here
