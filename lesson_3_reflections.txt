@@ -18,8 +18,8 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
-
+    Git can know the most recent commit on both local and remote repositories without the need of a persistant Internet connection. This means that you can continue to work offline while still having a reasonable assumption about the online version status
+    
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
